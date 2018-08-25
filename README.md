@@ -15,4 +15,4 @@ Zombies are attacking the graveyard and you're stuck between these zombies and h
 
 ![Screenshot](Main_menu.png)
 
-# Tools: Unity3D, blender  
+Tools: Unity3D, blender  
