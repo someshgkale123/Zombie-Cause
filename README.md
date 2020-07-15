@@ -5,7 +5,7 @@ Zombies are attacking the graveyard and you're stuck between these zombies and h
 
 # Gameplay:
 
-![Alt text](gifs/Gameplay.gif)
+![Alt text](gifs/Gameplay.gif=centerme)
 
 # Inventory
 
