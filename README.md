@@ -11,7 +11,7 @@ Player have limited supply of ammo and have to survive within the zombies which 
 
 # Gameover
 
-You have limited space to run from Zombies and they will follow you wherever you go. Zombies have slower speed than the player and player have advantage of running faster and jumping higher to cross zombies from above. At bottom left, player can see their current health. If the health drops at 0 so it's a game over for the player. He will have to restart the game again.
+You have limited space to run from Zombies and they will follow you wherever you go. Zombies have slower speed than the player and player have advantage of running faster and jumping higher to cross zombies from above. At bottom left, player can see their current health. If the health drops at 0 so it's a game over for the player and have to restart the game again.
 
 ![Alt text](gifs/gameover.gif)
 
