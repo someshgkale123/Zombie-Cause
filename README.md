@@ -5,14 +5,14 @@ Zombies are attacking the graveyard and you're stuck between these zombies and h
 
 # Gameplay:
 
-![Screenshot](Gameplay.png)
+![Alt text](gifs/Gameplay.gif)
 
 # Inventory
 
-![Screenshot](inventory.png)
+![Alt text](gifs/gameover.gif)
 
 # Main menu
 
-![Screenshot](Main_menu.png)
+![Alt text](gifs/Weapon.gif)
 
 Tools: Unity3D, blender  
